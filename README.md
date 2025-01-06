@@ -34,19 +34,22 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<div align="center">
+<h2 align="left" style="margin: 5px 10px;">⚙️ Github stats:</h2> 
 <a href="https://github.com/JL-Gale">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JL-Gale&theme=algolia&card_width=453&card_height=180" alt="GitHub Streak" />  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JL-Gale&show_icons=true&theme=algolia&hide_border=false&locale=en" />  
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JL-Gale&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
+
+
 
 
 <!--
